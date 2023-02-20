@@ -6,7 +6,6 @@ class PromoCard extends StatelessWidget {
     Key? key,
     required this.image,
   }) : super(key: key);
-
   // ignore: prefer_typing_uninitialized_variables
   final image;
 
@@ -36,3 +35,4 @@ class PromoCard extends StatelessWidget {
     );
   }
 }
+
