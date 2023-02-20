@@ -7,6 +7,7 @@ class PromoCard extends StatelessWidget {
     required this.image,
   }) : super(key: key);
 
+  // ignore: prefer_typing_uninitialized_variables
   final image;
 
   @override
